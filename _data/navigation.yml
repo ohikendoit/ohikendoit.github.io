@@ -1,0 +1,41 @@
+# main links
+main:
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# sidebar menu links:
+docs:
+  - title: "ABOUT"
+    url: /about
+  - title: "PROJECT"
+    url: /categories/#project
+  - title: "DATA"
+    children:
+      - title: "Time-Series"
+        url: /categories/#timeseries
+  - title: "ML"
+    children:
+      - title: "Models"
+        url: /categories/#models
+      - title: "TensorFlow"
+        url: /categories/#tensorflow
+
+  - title: "CS/DEV"
+    children:
+      - title: "Algorithm"
+        url: /categories/#algorithm
+      - title: "Linux"
+        url: /categories/#linux
+
+  - title: "Memo"
+    children:
+      - title: "Log"
+        url: /categories/#log
+      - title: "TIL"
+        url: /categories/#til
