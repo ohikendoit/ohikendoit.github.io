@@ -412,7 +412,7 @@ sns.heatmap(flights)
 
 
 
-![png](../assets/image/output_9_1.png)
+![png](assets/image/output_9_1.png)
 
 
 
@@ -428,7 +428,7 @@ sns.heatmap(flights, fmt="d", annot=True, cmap="YlGnBu")
 
 
 
-![png](../assets/image/output_10_1.png)
+![png](assets/image/output_10_1.png)
 
 
 sns.heatmap() 기능을 이용해 만들어본 히트맵이며, annot=True 값을 통해 각각의 데이터포인트 당 레이블을 추가하였고 cmap 값 설정을 통해 컬러매핑을 변경할 수 있었습니다.
