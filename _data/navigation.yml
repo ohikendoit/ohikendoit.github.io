@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -14,7 +14,7 @@ docs:
 #  - title: "About ohikendoit"
 #    url: /about
   - title: "Project Portfolio"
-    url: /categories/#project
+      url: 'https://github.com/ohikendoit'
   - title: "Data Science & Engineering"
   - title: "CS & Development"
   - title: "Note"
