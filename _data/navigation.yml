@@ -11,12 +11,11 @@ main:
 
 # sidebar menu links:
 docs:
-  - title: "About ohikendoit"
-    url: /about
+#  - title: "About ohikendoit"
+#    url: /about
   - title: "Project Portfolio"
     url: /categories/#project
   - title: "Data Science & Engineering"
-  - title: "ML"
   - title: "CS & Development"
   - title: "Note"
     children:
