@@ -4,9 +4,9 @@ title: "Use Notion.io!"
 date: 2021-06-18
 comments: true
 categories: 
-[Log]
+    [Log]
 tags:
-[Notion, Productivity]
+    [Notion, Productivity]
 toc: false
 publish: true
 classes: wide
