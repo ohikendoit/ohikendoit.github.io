@@ -4,7 +4,6 @@ title: "Use Notion.io!"
 date: 2021-06-18
 comments: true
 categories:
-[Data Science]
 tags:
 [Notion, Productivity]
 toc: false
