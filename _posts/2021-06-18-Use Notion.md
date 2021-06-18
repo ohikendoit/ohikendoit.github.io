@@ -3,7 +3,8 @@ layout: single
 title: "Use Notion.io!"
 date: 2021-06-18
 comments: true
-categories:
+categories: 
+[Log]
 tags:
 [Notion, Productivity]
 toc: false
