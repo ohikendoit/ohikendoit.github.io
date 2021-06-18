@@ -3,10 +3,10 @@ layout: single
 title: "Use Notion.io!"
 date: 2021-06-18
 comments: true
-categories: 
-    [Log]
+categories:
+  [Log]
 tags:
-    [Notion, Productivity]
+  [Notion, jekyll, github.io]
 toc: false
 publish: true
 classes: wide
