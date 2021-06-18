@@ -11,8 +11,8 @@ main:
 
 # sidebar menu links:
 docs:
-#  - title: "About ohikendoit"
-#    url: /about
+  - title: "About ohikendoit"
+    url: /about
   - title: "Project Portfolio"
   - title: "Data Science & Engineering"
   - title: "CS & Development"
@@ -20,5 +20,5 @@ docs:
     children:
      - title: "Log"
          url: /categories/#log
-      - title: "TIL"
-        url: /categories/#til
+     - title: "TIL"
+         url: /categories/#til
