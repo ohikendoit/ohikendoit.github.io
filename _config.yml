@@ -283,7 +283,7 @@ defaults:
         nav: "docs"
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
