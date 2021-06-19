@@ -17,8 +17,8 @@ docs:
   - title: "Data Science & Engineering"
   - title: "CS & Development"
   - title: "Note"
-    children:
-     - title: "Log"
-         url: /categories/#log
-     - title: "TIL"
-         url: /categories/#til
+    #children:
+     #- title: "Log"
+     #    url: /categories/#log
+     #- title: "TIL"
+     #    url: /categories/#til
