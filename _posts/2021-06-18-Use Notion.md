@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Use Notion.io!"
+title: "Notion as the all-in-one workspace: Pros and Sample Use"
 date: 2021-06-18
 comments: true
 categories:
