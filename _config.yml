@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Human + Data"
+title                    : "Human Centered Data"
 title_separator          : "-"
 subtitle                 : "A Data Science & Engineering Log"
 name                     : "ohikendoit"
@@ -97,9 +97,9 @@ languages: ["ko", "en"]
 author:
   name             : "ohikendoit"
   avatar           : "assets/image/13503133.jfif"
-  bio              : "Data visualization & analytics in the international development context, time-series analysis and modelling for competitions, agile development in practice, statistics, environmental science, computer science"
+  bio              : "Data analytics & visualization, modelling for competitions, agile development in practice, statistics, environmental science, computer science"
   location         : "Istanbul, Turkey"
-  email            :
+  email            : "ohikendoit@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

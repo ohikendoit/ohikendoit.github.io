@@ -11,12 +11,13 @@ main:
 
 # sidebar menu links:
 docs:
-  - title: "About ohikendoit"
+  - title: "About Yoonseong"
     url: /about
   - title: "Project Portfolio"
+    url: /project-portfolio
   - title: "Data Science & Engineering"
-  - title: "CS & Development"
-  - title: "Note"
+  - title: "Development & Visualization"
+  - title: "Reference Material"
     #children:
      #- title: "Log"
      #    url: /categories/#log
