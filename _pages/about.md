@@ -1,6 +1,7 @@
 ---
 title: "About"
 last_modified_at: 2021-09-04
+permalink: /about/
 ---
 
 **Yoonseong Jung / 정윤성**
