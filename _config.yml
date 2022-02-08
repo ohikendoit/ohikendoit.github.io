@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Human-Centered Data Center"
+title                    : "All Things Data"
 title_separator          : "-"
-subtitle                 : "A Data Science & Engineering Log"
+subtitle                 : "올띵스데이타"
 name                     : "ohikendoit"
 description              : "Data Scientist based in Seoul, Korea"
 url                      : "https://ohikendoit.github.io"
@@ -97,8 +97,8 @@ languages: ["ko", "en"]
 author:
   name             : "ohikendoit"
   avatar           : "assets/image/13503133.jfif"
-  bio              : "Data analytics & visualization, modelling for competitions, agile development in practice, statistics, environmental science, computer science"
-  location         : "Istanbul, Turkey"
+  bio              : "Data analytics & engineering, modelling for competitions, agile development in practice, statistics, environmental science, computer science"
+  location         : "Seoul, South Korea"
   email            : "ohikendoit@gmail.com"
   links:
     - label: " ohikendoit@gmail.com"
